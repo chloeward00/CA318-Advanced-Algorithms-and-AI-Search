@@ -1,0 +1,11 @@
+At the start of my program in the a star file, the start and goal word is given by the user.
+which is then passed into my WordGameNode.py. This program takes various functions from 
+the wordgamenode program such as heuristic that helps calculate the cost of shortest path 
+from the goal word that the user inputs.
+
+In the a_star_search, the function is used to determine 
+the path that the program takes getting to the goal word via 
+the start word. In this function the children are sorted by scores.
+ I have also used a set for the visited as I learned from my previous 
+demo that a set() makes it more efficient, which makes sense as my run time for 
+this program is significantly faster than it was for my last demo. 
