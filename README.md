@@ -1,1 +1,1 @@
-# Advanced-Algorithms-and-AI-Search courseword for CA318
+# Advanced-Algorithms-and-AI-Search coursework for CA318
